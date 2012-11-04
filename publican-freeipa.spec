@@ -4,7 +4,7 @@ Name:		publican-freeipa
 Version:	1.4
 Release:	1
 License:	CC-BY-SA
-Group:		Development/Libraries
+Group:		Development/Tools
 Source0:	https://fedorahosted.org/releases/p/u/publican/%{name}-%{version}.tgz
 # Source0-md5:	a0ec1772fb8fb2cb482fb6c5290d250c
 URL:		https://publican.fedorahosted.org/
